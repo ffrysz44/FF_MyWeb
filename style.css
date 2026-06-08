@@ -102,7 +102,7 @@ nav ul li a:hover::after{
     margin-top: 20px;
 }
 .header-text h1 span{
-    color: #4864ff;
+    color: red;
 }
 .header-text p{
     font-size: 33px;
